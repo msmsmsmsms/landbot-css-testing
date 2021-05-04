@@ -1,6 +1,7 @@
 .MessageBubble.MessageBubble {
   border-radius: 1rem;
   border-bottom-left-radius: 0;
+  background-color: blue;
 }
 
 .MessageBubble.MessageBubble.is-reverse {
